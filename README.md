@@ -3,3 +3,5 @@
 Exercise to demonstrate how media queries work.
 
 Please follow this link to the deployed webpage which is hosted on GitHub Pages.
+
+https://alexshub1.github.io/responsiveWebDesignMediaQueries/
